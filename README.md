@@ -1,3 +1,5 @@
+# (這個fork跟原本的源泉圓體一樣，只是加了ttf檔)
+
 ![源泉圓體/源泉丸ゴシック](https://buttaiwan.github.io/font/pics/gensen.png)
 
 # 繁體中文
